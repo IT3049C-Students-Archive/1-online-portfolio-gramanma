@@ -2,35 +2,35 @@ img {
   float: left;
   width: 40%;
   padding: 10px;
-  border: 3px solid #73AD21;
+  
 }
 
 #personalBackground {
   float: right;
-  border: 3px solid #73AD21;
+ 
   padding: 10px;
 }
 
 #experience {
   float: right;
   padding: 10px;
-  border: 3px solid #73AD21;
+  
 }
 
 #games {
   float: left;
   padding: 10px;
-  border: 3px solid #73AD21;
+  
 }
 
 #achievements {
   float: left;
   padding: 10px;
-  border: 3px solid #73AD21;
+ 
 }
 
 #programmingLanguages {
   float: left;
   padding: 10px;
-  border: 3px solid #73AD21;
+  
 }

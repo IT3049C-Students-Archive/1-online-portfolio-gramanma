@@ -1,0 +1,36 @@
+img {
+  float: left;
+  width: 40%;
+  padding: 10px;
+  
+}
+
+#personalBackground {
+  float: right;
+ 
+  padding: 10px;
+}
+
+#experience {
+  float: right;
+  padding: 10px;
+  
+}
+
+#games {
+  float: left;
+  padding: 10px;
+  
+}
+
+#achievements {
+  float: left;
+  padding: 10px;
+ 
+}
+
+#programmingLanguages {
+  float: left;
+  padding: 10px;
+  
+}

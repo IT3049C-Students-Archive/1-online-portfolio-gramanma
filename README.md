@@ -14,4 +14,6 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 
 ### How long it took me to finish this?
 
+1 hour.
+
 -----------------------
